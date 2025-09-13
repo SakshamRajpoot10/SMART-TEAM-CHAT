@@ -36,9 +36,9 @@ npm start
 
 ## 📸 Snapshots
 
-![Chat List]([src/Images/Screenshot 2025-09-13 154115.png](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154115.png))
+![Chat List](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154115.png)
 
- ![image]()
+ ![image](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154115.png)
  ![image]()
  ![image]()
  ![image]()
