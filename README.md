@@ -38,9 +38,8 @@ npm start
 
 ![Chat List](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154115.png)
 
- ![image](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154115.png)
- ![image]()
- ![image]()
- ![image]()
- ![image]()
+ ![image](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154216.png)
+ ![image](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154232.png)
+ ![image](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154247.png)
+ ![image](https://raw.githubusercontent.com/SakshamRajpoot10/SMART-TEAM-CHAT/refs/heads/main/src/Images/Screenshot%202025-09-13%20154302.png)
 
