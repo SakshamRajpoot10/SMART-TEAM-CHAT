@@ -1,1 +1,5 @@
-# SMART-TEAM-CHAT
+<<<<<<< HEAD
+...your changes...
+=======
+...remote changes...
+>>>>>>> commit-hash
