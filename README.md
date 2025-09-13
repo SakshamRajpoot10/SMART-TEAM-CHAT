@@ -34,7 +34,12 @@ npm install
 # 2 Start the development server
 npm start  
 
-## Screenshots
+## 📸 Snapshots
 
-![Chat List](./screenshots/chat-list.png)
+ ![image](src/Images/Screenshot 2025-09-13 154115.png)
+ ![image]()
+ ![image]()
+ ![image]()
+ ![image]()
+ ![image]()
 
