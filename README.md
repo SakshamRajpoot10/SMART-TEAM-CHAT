@@ -28,10 +28,10 @@ The goal of this project is to present a **minimal, UI-focused prototype** that 
 
 Follow these steps to run the project locally:  
 
-# 1 Install dependencies
+# 1. Install dependencies
 npm install  
 
-# 2 Start the development server
+# 2. Start the development server
 npm start  
 
 ## 📸 Snapshots
